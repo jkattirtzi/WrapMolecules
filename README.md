@@ -7,7 +7,7 @@ For visualization this can cause problems, with water molecules broken up.
 
 They can also move out of the box so the box looks empty:
 
-![Empty](./nowater.tga)
+![Empty](./nowater.jpg)
 
 After running this python script I get:
-![Full](./withwater.tga)
+![Full](./withwater.jpg)
